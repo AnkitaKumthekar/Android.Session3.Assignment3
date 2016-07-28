@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CreditCardApplicationUI</string>
+    <string name="credit_card_helper">Credit Card Helper</string>
+    <string name="card_balance">Enter Card Balance($)</string>
+    <string name="yr_intrest_rate">Enter Yearly Interest Rate(%)</string>
+    <string name="min_payment">Enter Minimum payment($)</string>
+    <string name="card_bal">Final card Balance($)</string>
+    <string name="months_remaining">Months Remaining</string>
+    <string name="interest_paid_will">Interest Paid Will Be($)</string>
+    <string name="compute">Compute</string>
+    <string name="clear">Clear</string>
+</resources>
